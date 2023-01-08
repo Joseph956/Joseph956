@@ -12,5 +12,6 @@
     Ce que j'apprends et travaille actuellement : 
   </strong></summary> 
      - java jee <br/>
-     - Vue-JS
+     - Vue-JS <br/>
+     - JavaScript 
 </details>
