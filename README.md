@@ -3,6 +3,6 @@
 
 # Bonjour 👋  Bienvenue sur mon Github
 
-### 🏗 https://github.com/Joseph956?tab=repositories pour voir tous mes projets.
+### 🏗 Voir tous mes projets https://github.com/Joseph956?tab=repositories 
 
-### 🌍 https://www.linkedin.com/in/joseph-angileri/ pour mieux me connaître.
+### 🌍 Rejoignez-moi sur Linkedin https://www.linkedin.com/in/joseph-angileri/ 
