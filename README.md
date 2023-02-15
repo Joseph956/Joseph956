@@ -19,7 +19,7 @@
   <summary><strong> 
     Liens vers mes réalisations : 
   </strong></summary>      
-     👉 Transformer une maquette en site web en HTML5 et CSS3 https://joseph956.github.io/JosephANGILERI_2_20210101/<br/>
+     👉 Transformer une maquette en site web HTML5 et CSS3 https://joseph956.github.io/JosephANGILERI_2_20210101/<br/>
      👉 Dynamiser une page web avec des animations en CSS3 https://joseph956.github.io/JosephANGILERI_3_20210320/<br/>
      👉 Optimisez un site web existant SEO et accessibilité https://joseph956.github.io/josephangileri_4_20210428/
     
